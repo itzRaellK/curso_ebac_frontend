@@ -1,0 +1,21 @@
+
+git add .
+git add "nome do arquivo"
+
+git commit -m "nome do commit"
+
+git push -u origin main
+git push
+git pull
+git clone "link do repositório"
+
+git log
+git log --n 3
+git log --oneline
+
+git branch "nova branch"
+git branch - Mostra as branchs criadas
+
+git checkout "e o nome da branch para se mover até ela"
+
+git merge "nome da branch para juntar branchs"
