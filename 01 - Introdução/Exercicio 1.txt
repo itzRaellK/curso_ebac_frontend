@@ -1,0 +1,5 @@
+Módulo 1 - Introdução ao desenvolvimento Front-end
+
+Exercício - Papel do HTML, CSS e JavaScript na construção de páginas Web
+
+Resposta - HTML na construção de uma página Web seria o começo do processo. Onde o desenvolvedor estabelece a estrutura e básica da página. Seria como o esqueleto ou processo de sketch de uma arte por exemplo. Com CSS podemos aplicar elementos de estilização que tornam a estrutura mais bonita aos olhos de quem acessa essa página. Cores, fontes, tamanho da resolução mostrada no navegador, tudo isso pode ser estilizado de acordo com o desenvolvedor. Por ultimo, com JavaScript, o desenvolvedor estabelece toda a lógica de programação por de trás desta página. Sendo responsável por toda a parte lógica que possa existir nesse projeto. 
